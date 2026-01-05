@@ -4,13 +4,13 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "predeploy": "npm run build",
+  "dev": "vite",
+  "build": "vite build",
+  "predeploy": "npm run build",
   "deploy": "xcopy /E /I dist ..\\..\\docs\\event-planner\\",
-    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite build; vite preview --host"
-  },
+  "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+  "preview": "vite preview"
+},
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
