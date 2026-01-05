@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/React_basics/todo-list/',
+  base: '/React_Basics/todo-list/',
   plugins: [react()],
 })
