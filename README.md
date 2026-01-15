@@ -7,6 +7,20 @@
 
 A comprehensive collection of React applications built with Vite, showcasing progressive learning from basic components to advanced state management with Redux Toolkit. Each project demonstrates specific React concepts, patterns, and real-world application development skills.
 
+
+### Links:
+1.https://jonathanmagdy.github.io/React_Basics/my-first-app/
+2.https://jonathanmagdy.github.io/React_Basics/content-rating/
+3.https://jonathanmagdy.github.io/React_Basics/custom-hook/
+4.https://jonathanmagdy.github.io/React_Basics/e-commerce/
+5.https://jonathanmagdy.github.io/React_Basics/todo-list/
+6.https://jonathanmagdy.github.io/React_Basics/event-planner/
+7.https://jonathanmagdy.github.io/React_Basics/feedback-form/
+
+
+
+
+
 ## 🌟 Overview
 
 This portfolio contains **7 React projects** that progressively build upon each other, demonstrating a complete learning path from React fundamentals to advanced state management. Each project is fully functional, well-documented, and ready for deployment.
